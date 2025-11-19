@@ -1,0 +1,6 @@
+5
+jj9 ( X \land Y \Rightarrow W )
+( X \land W \Rightarrow Y \Rightarrow Z )
+( X \Leftrightarrow Y )
+T \Rightarrow F
+\lnot F QQ
